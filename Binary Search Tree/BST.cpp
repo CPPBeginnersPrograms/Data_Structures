@@ -63,7 +63,7 @@ void BST::AddLeafPrivate(int key, node* ptr)
 	}
 	else
 	{
-		cout << "The Key "<< key << " is alrea been added in the tree.\n"<<endl;
+		cout << "The Key "<< key << " is already been added in the tree.\n"<<endl;
 	}
 }
 

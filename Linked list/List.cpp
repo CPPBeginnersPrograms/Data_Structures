@@ -39,6 +39,7 @@ void List::addNode(int addData)
 
 			if(head != NULL)
 			{
+
 				curr = head;
 				while(curr->next != NULL)
 				{
